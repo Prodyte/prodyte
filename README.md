@@ -12,6 +12,4 @@
 - 😄 Pronouns: ... Him/His
 - ⚡ Fun fact: ...
 
-<div class="tenor-gif-embed" data-postid="17482706" data-share-method="host" data-width="100%" data-aspect-ratio="1.7412587412587412"><a href="https://tenor.com/view/mr-robot-elliot-alderson-rami-malek-hello-friend-hello-there-gif-17482706">Mr Robot Elliot Alderson GIF</a> from <a href="https://tenor.com/search/mrrobot-gifs">Mrrobot GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prodyte&show_icons=true&hide_border=true)
