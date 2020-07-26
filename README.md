@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=prodyte)
 [![Twitter: prodyte](https://img.shields.io/twitter/follow/pawan221b?style=social)](https://twitter.com/pawan221b)
 [![Linkedin: prodyte](https://img.shields.io/badge/-prodyte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prodyte/)](https://www.linkedin.com/in/prodyte/)
 
