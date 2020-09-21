@@ -3,7 +3,7 @@
 [![Linkedin: prodyte](https://img.shields.io/badge/-prodyte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prodyte/)](https://www.linkedin.com/in/prodyte/)
 
 - 🔭 I’m currently working on ... nothing.
-- 🌱 I’m currently learning ... kubernetes.
+- 🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on ... any golang project.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... devops.
