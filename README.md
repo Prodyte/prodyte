@@ -1,6 +1,7 @@
 ### Hi there 👋
 [![Twitter: prodyte](https://img.shields.io/twitter/follow/pawan221b?style=social)](https://twitter.com/pawan221b)
 [![Linkedin: prodyte](https://img.shields.io/badge/-prodyte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prodyte/)](https://www.linkedin.com/in/prodyte/)
+[![binarysearch](https://binarysearch.com/api/shields/prodyte)](https://binarysearch.com/@/prodyte)
 
 - 🔭 I’m currently working on ... nothing.
 - 🌱 I’m currently learning ... 
