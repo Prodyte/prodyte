@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ... nothing.
 - 🌱 I’m currently learning ... 
-- 👯 I’m looking to collaborate on ... any golang project.
+- 👯 I’m looking to collaborate on ... any nodejs/golang project.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... devops.
 - 📫 How to reach me: ... [Twitter](https://twitter.com/pawan221b), [LinkedIn](https://www.linkedin.com/in/prodyte/)
