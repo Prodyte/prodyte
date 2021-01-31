@@ -3,11 +3,11 @@
 [![Linkedin: prodyte](https://img.shields.io/badge/-prodyte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prodyte/)](https://www.linkedin.com/in/prodyte/)
 [![binarysearch](https://binarysearch.com/api/shields/prodyte)](https://binarysearch.com/@/prodyte)
 
-- 🔭 I’m currently working on ... nothing.
-- 🌱 I’m currently learning ... 
-- 👯 I’m looking to collaborate on ... any nodejs/golang project.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... devops.
+- 🔭 I’m currently working on nothing.
+- 🌱 I’m currently learning everything
+- 👯 I’m looking to collaborate on any nodejs project.
+- 🤔 I’m looking for internships.
+- 💬 Ask me about ... movies.
 - 📫 How to reach me: ... [Twitter](https://twitter.com/pawan221b), [LinkedIn](https://www.linkedin.com/in/prodyte/)
 - 😄 Pronouns: ... Him/His
 - ⚡ Fun fact: ...
