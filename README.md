@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on projects.
 - 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate on any reactjs project.
+- 👯 I’m looking to collaborate on .....
 - 🤔 I’m looking for fullstack developer roles.
 - 💬 Ask me about ... movies.
 - 📫 How to reach me: ... [Twitter](https://twitter.com/pawan221b), [LinkedIn](https://www.linkedin.com/in/prodyte/)
